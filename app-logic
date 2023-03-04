@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T12:18:57.044Z" agent="5.0 (Windows)" etag="IS9j3gXf6chSEMM5Kzhk" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T12:21:29.101Z" agent="5.0 (Windows)" etag="7RY0OWiAMVUZ37zihkz3" version="21.0.2" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2364" dy="1487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2856" dy="1759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,11 +41,6 @@
         </mxCell>
         <mxCell id="uiuDwYGStyQ54aSuNiTU-1791" value="Existing user/login" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#2F5B7C;strokeColor=#7EA6E0;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=4;fontStyle=1;spacing=5;arcSize=7;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="904.76" y="5.5" width="140.16" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="uiuDwYGStyQ54aSuNiTU-1813" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uiuDwYGStyQ54aSuNiTU-1793" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1420" y="75" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="w2TOEDnIinEeK7b0RbD--1756" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="uiuDwYGStyQ54aSuNiTU-1793" target="w2TOEDnIinEeK7b0RbD--1757" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -96,9 +91,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="eEbQiH3l_itbS7F670gO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uiuDwYGStyQ54aSuNiTU-1801" target="eEbQiH3l_itbS7F670gO-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uiuDwYGStyQ54aSuNiTU-1801" value="Track calories" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#2F5B7C;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="904.76" y="320" width="140.16" height="70" as="geometry" />
         </mxCell>
@@ -131,6 +123,9 @@
         </mxCell>
         <mxCell id="w2TOEDnIinEeK7b0RbD--1758" value="Database schema" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#2F5B7C;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="815" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eEbQiH3l_itbS7F670gO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w2TOEDnIinEeK7b0RbD--1760" target="eEbQiH3l_itbS7F670gO-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w2TOEDnIinEeK7b0RbD--1760" value="No duplicate entries" style="whiteSpace=wrap;html=1;fontSize=16;fillColor=#2F5B7C;strokeColor=none;fontColor=#FFFFFF;rounded=1;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="805" y="750" width="140" height="70" as="geometry" />
@@ -198,20 +193,20 @@
         <mxCell id="kbvvKPsqOOZZAQuNYg-R-1759" value="&lt;div&gt;Register function&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;shadow=0;labelBackgroundColor=none;strokeWidth=3;fontStyle=1;spacing=5;arcSize=7;" parent="1" vertex="1">
           <mxGeometry x="601" y="336" width="132.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="kbvvKPsqOOZZAQuNYg-R-1767" value="Database schema for users" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="619" y="641" width="96.25" height="110" as="geometry" />
+        <mxCell id="kbvvKPsqOOZZAQuNYg-R-1767" value="Database schema for users and user measurement" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="584.13" y="640" width="165.25" height="169" as="geometry" />
         </mxCell>
-        <mxCell id="eEbQiH3l_itbS7F670gO-1" value="Database schema for user measurment data" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1240" y="600" width="140" height="150" as="geometry" />
+        <mxCell id="eEbQiH3l_itbS7F670gO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eEbQiH3l_itbS7F670gO-4" target="eEbQiH3l_itbS7F670gO-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eEbQiH3l_itbS7F670gO-4" value="Create recipe items with the food in the database" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1280" y="180" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eEbQiH3l_itbS7F670gO-8" value="Database schema for food items" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1430" y="600" width="140" height="150" as="geometry" />
+          <mxGeometry x="1050" y="670" width="140" height="150" as="geometry" />
         </mxCell>
         <mxCell id="eEbQiH3l_itbS7F670gO-9" value="Database schema for recipe items" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="1610" y="600" width="140" height="150" as="geometry" />
+          <mxGeometry x="1590" y="150" width="140" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
