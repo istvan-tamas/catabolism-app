@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T18:28:37.950Z" agent="5.0 (Windows)" etag="e_6vo-woN92OgAFo6P1x" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T18:43:50.297Z" agent="5.0 (Windows)" etag="CG87uucx2Q8iOTWkrbyV" version="20.8.23" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
-    <mxGraphModel dx="2219" dy="1375" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3078" dy="1823" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,6 +197,9 @@
         </mxCell>
         <mxCell id="eEbQiH3l_itbS7F670gO-9" value="Database schema for recipe items" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;strokeWidth=2;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="1590" y="150" width="140" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="ZDzxG1v95fv59mV_Hshs-1" value="UI/UX" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="336" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
